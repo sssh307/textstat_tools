@@ -53,7 +53,7 @@ knitr::kable(twitter_counts[1:10, ], caption = 'A caption')
 
 ## Homework
 
-1. Create a histogram of the token *the* from the twitter dfm. **Hint**: you can draw from the code that we used in 03_dispersions.R
+1. Try creating a histogram of the token *the* from the twitter dfm. **Hint**: you can draw from the code that we used in 03_dispersions.R and note that the result may not be what you expect. Can you plot your reults?
 
 ```{r}
 # code goes here
